@@ -2,5 +2,6 @@
 
 - 📅 I like working with React & JavaScript
 - 🤓 I enjoy tinkering with my homeLab 
-- 👯 I’m open to collaborating on any project
 - ⛳ Fun fact: I like to golf
+- 👥 I’m open to collaborating on any project
+- 🥇 I'm oddly motivated by digital badges
