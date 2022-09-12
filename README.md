@@ -2,7 +2,7 @@
 
 - 📅 I like working with React & JavaScript
 - 👥 I’m open to collaborating on any project
-- - ⛳ Fun fact: I like to golf
+- ⛳ Fun fact: I like to golf
 - 🥇 I'm oddly motivated by digital badges
 - 🤓 I enjoy tinkering with my homeLab 
 
