@@ -1,9 +1,13 @@
 ### Hi there, I'm Phil 👋
   
+ ---
+  
 - 📅 I like working with JavaScript & React
 - 🤓 I enjoy tinkering with my homeLab 
 - 🥇 I'm oddly motivated by digital badges
 - 👥 I’m open to collaborating on any project
+
+---
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
